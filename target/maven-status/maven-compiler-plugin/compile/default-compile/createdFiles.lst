@@ -1,0 +1,13 @@
+com\example\clientmanagement\entity\Cliente.class
+com\example\clientmanagement\dto\ClienteMapper.class
+com\example\clientmanagement\repository\ClienteRepository.class
+com\example\clientmanagement\dto\ClienteResponseDTO.class
+com\example\clientmanagement\dto\EnderecoResponseDTO.class
+com\example\clientmanagement\ClientManagementApplication.class
+com\example\clientmanagement\entity\Endereco.class
+com\example\clientmanagement\dto\EnderecoRequestDTO.class
+com\example\clientmanagement\dto\ClienteRequestDTO.class
+com\example\clientmanagement\controller\ClienteController.class
+com\example\clientmanagement\integration\ViaCepService.class
+com\example\clientmanagement\service\ClienteService.class
+com\example\clientmanagement\repository\EnderecoRepository.class

@@ -1,0 +1,13 @@
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\entity\Endereco.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\dto\ClienteMapper.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\dto\ClienteResponseDTO.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\dto\ClienteRequestDTO.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\dto\EnderecoRequestDTO.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\repository\EnderecoRepository.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\repository\ClienteRepository.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\service\ClienteService.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\ClientManagementApplication.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\integration\ViaCepService.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\controller\ClienteController.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\entity\Cliente.java
+D:\Workspaces\meta\desafioMeta\src\main\java\com\example\clientmanagement\dto\EnderecoResponseDTO.java
